@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">kalam</string>
+    <string name="welcomeScreenText">Create your own stories</string>
+    <string name="existing_user_sign_in">Existing User? Sign IN</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="enter_your_email_phone">Enter your Email/Phone</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="title_activity_home_screen_activity">home_screen_activity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="newsign">Sign Up</string>
+    <string name="new_sign_in">Sign In?</string>
+    <string name="add_delivery_address">Add Delivery Address</string>
+    <string name="house_no_flat_no_appartment">House No./ Flat No./ Appartment</string>
+    <string name="street_locality">Street/Locality</string>
+    <string name="add">Add</string>
+    <string name="whatido">password bhul to hum kuch nhi kar skte ghar ki taraf holo chup chap</string>
+    <string name="banner_text">The Fastest In <br /> Delivery <font color="#f16922">Food</font></string>
+    <string name="you_have_no_favourite_items_in_list">You have no favourite items in list</string>
+    <string name="favourite">Favourite</string>
+    <string name="search_items">Search Items</string>
+    <string name="notifications">Notifications</string>
+    <string name="you_have_no_new_notifications">You have no new notifications</string>
+    <string name="cart">Cart</string>
+    <string name="new_delhi_india">New Delhi, India</string>
+    <string name="user_profile">User Profile</string>
+    <string name="plus">ADD +</string>
+</resources>
