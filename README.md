@@ -15,10 +15,11 @@ Kalam is an app that gives people a chance to write their stories on the app. Th
 
 ## Screenshots<div style="display:flex;flex-wrap:wrap;">
   <img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(1).jpeg?raw=true" height="500px">
-<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(2).jpeg?raw=true" height="500px">
-<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(3).jpeg?raw=true" height="500px">
-<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(4).jpeg?raw=true" height="500px">
-<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(5).jpeg?raw=true" height="500px">
-<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(6).jpeg?raw=true" height="500px">
-  <img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss.jpeg?raw=true" height="500px">
+<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(1).jpg?raw=true" height="500px">
+  <img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(2).jpg?raw=true" height="500px">
+<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(3).jpg?raw=true" height="500px">
+<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(4).jpg?raw=true" height="500px">
+<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(5).jpg?raw=true" height="500px">
+<img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss%20(6).jpg?raw=true" height="500px">
+  <img src="https://github.com/udaychugh/kalam/blob/main/screenshots/ss.jpg?raw=true" height="500px">
   </div>
